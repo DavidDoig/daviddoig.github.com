@@ -1,2 +1,2 @@
-daviddoig.github.com
-====================
+daviddoig.github.io
+===================
