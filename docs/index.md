@@ -2,4 +2,4 @@
 icon: lucide/rocket
 ---
 
-# David Doig
+# My Thoughts
